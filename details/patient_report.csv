@@ -1,0 +1,15 @@
+un_id,Name,Age,Address,Mobile No,Gender,Degree,University,Height,Weight,Blood Group,Father Name,Mother Name
+1,Jack,25,"25,western street ",7418529630,male,B.com,amercian,5.5,50,B +ve,tony,sony
+2,Steve,30,"30,main street",8529637410,male,B.sc,michigan,5.7,65,AB +ve,stark,eve
+3,John Doe,20,"15,north street",7894561230,male,B.E,boston,5.8,68,AB -ve,Liam,Olivia
+4,Robert,22,1607 23rd Street NW,7539520146,male,BCA,Washington,5.6,70,B +ve,John,Mary
+5,Patricia,27,664 Dickens Road,8956230147,female,B.TECH,Georgia,5.4,50,O +ve,Michael,Linda
+6,Jennifer,35,9520 Faires Farm Road,6547891230,female,B.sc,Charlotte,5.5,55,B +ve,William,Barbara
+7,Susan,45,"526 Superior Avenue, Suite 1255",8745693021,female,B.E,Cleveland,5.8,60,AB -ve,Joseph,Jessica
+8,Sarah,50,2312 Dorrington Dr,6392587401,female,BCA,Dallas,5.7,65,B +ve,Charles,Karen
+9,Christopher,20,2026 Scott Street,7894563021,male,B.com,Houston,5.5,55,B +ve,Daniel,Nancy
+10,Betty,24,"77 Massachusetts Avenue,",9638520147,female,B.TECH,Cambridge,5.8,60,AB +ve,Matthew,Margaret
+11,Paul,30,"26050 Kay Ave., ",5289630741,male,B.sc,Hayward,5.8,60,B +ve,Andrew,Donna
+12,Carol,25,"1350 Red Rock Street,",8529637410,female,B.E,Las Vegas,5.7,60,AB +ve,Kenneth,Amanda
+13,q,26,w,7489561230,male,b.sc,Georgia,538,55,B +ve,William,r
+14,w,27,q,6541237890,female,B.com,Hayward,5.8,60,O +ve,Liam,Linda
